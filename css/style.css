@@ -100,8 +100,15 @@ h1, h2, h3, h4, h5,
   margin-left:auto;
   margin-right:auto;
   display: block;
-
 }
+
+.partner{
+  width:50%;
+  height:50%;
+  margin-left:auto;
+  margin-right: auto;
+}
+
 .line-height-1 {
   line-height: 1 !important; }
 
